@@ -8,4 +8,4 @@
 
 [![Linkedin: josephndungi](https://img.shields.io/badge/-josephndungi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephndungi/)](https://www.linkedin.com/in/joseph-ndungi-91b2a7195/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5BLZxDBmTzSvosAAGYReeg%3D%3D)
 
-[!Twitter: josephndungi](https://img.shields.io/twitter/follow/josephndungi?style=social)](https://twitter.com/josejrke)
+[![Twitter: josephndungi](https://img.shields.io/twitter/follow/josephndungi?style=social)](https://twitter.com/josejrke)
