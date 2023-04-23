@@ -21,8 +21,9 @@ _Innova, Kilimani, Nairobi, Kenya_
 June 2022 - Present
 
 - Developed an internal tool to facilitate team interaction with input data for the analytics core system.
-- Designed and implemented user interfaces for web applications using Angular.
-- Collaborated with backend developers to integrate frontend interfaces with server-side functionality.
+- Design and implement user interfaces for web applications using Angular.
+- Collaborate with backend developers to integrate frontend interfaces with server-side functionality.
+- Middleware to log information about the requests and responses.
 
 ---
 
