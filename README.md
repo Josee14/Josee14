@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-📍 Nairobi, Kenya | 📞 +254791502604 | 📧 josendungi4@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/joseph-ndungi-91b2a7195/) | 🌐 [GitHub](https://github.com/joseph-ndungi)
+📍 Nairobi, Kenya | 📞 +254791502604 | 📧 josendungi4@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/joseph-ndungi-91b2a7195/) | 🌐 [GitHub](https://github.com/joseph-ndungi) | 📄 [Resume](https://docs.google.com/document/d/1Nf5ZMkZtM6djM-P0jxkN7QnhL9iCpWgOhc3GiwHf8cY/edit?usp=sharing)
 
 ---
 
