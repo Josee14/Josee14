@@ -17,10 +17,9 @@ September 2019 - August 2023
 ## 💼 Experience
 
 **Software Engineer**  
-_Innova, Kilimani, Nairobi, Kenya_  
+_Innova Limited, Kilimani, Nairobi, Kenya_  
 June 2022 - Present
 
-- Developed an internal tool to facilitate team interaction with input data for the analytics core system.
 - Design and implement user interfaces for web applications using Angular.
 - Collaborate with backend developers to integrate frontend interfaces with server-side functionality.
 - Middleware to log information about requests and responses.
@@ -29,15 +28,15 @@ June 2022 - Present
 
 ## 🛠️ Skills
 
-**Languages:** HTML5, CSS3, Python, JavaScript (ES6), SQL, TypeScript  
-**Frameworks:** Numpy, Pandas, Flask, FastAPI, Bootstrap5, Pytest, Django, Angular  
+**Languages:** HTML5, CSS3, Python, JavaScript (ES6), SQL, TypeScript, C#  
+**Frameworks:** Numpy, Pandas, Flask, FastAPI, Bootstrap5, Pytest, Django, Angular, ASP.NET Core 
 **Tools and Others:** Git, GitHub, GitLab, Docker, GraphQL, Netlify, MySQL, Rest APIs, Plotly, SQLite PostgreSQL Databases, Postman
 
 ---
 
 ## 🌟 Highlights
 
-- Proficient in a wide range of programming languages, frameworks, and tools.
+- Proficient in various programming languages, frameworks, and tools.
 - Hands-on experience in designing and implementing user interfaces and web applications.
 - Strong collaboration skills, with a history of working with cross-functional teams.
 - Passion for continuous learning and staying up-to-date with the latest industry trends.
