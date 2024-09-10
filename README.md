@@ -29,7 +29,7 @@ June 2022 - Present
 ## 🛠️ Skills
 
 **Languages:** HTML5, CSS3, Python, JavaScript (ES6), SQL, TypeScript, C#  
-**Frameworks:** Numpy, Pandas, Flask, FastAPI, Bootstrap5, Pytest, Django, Angular, ASP.NET Core 
+**Frameworks:** Numpy, Pandas, Flask, FastAPI, Bootstrap5, Pytest, Django, Angular, ASP.NET Core  
 **Tools and Others:** Git, GitHub, GitLab, Docker, GraphQL, Netlify, MySQL, Rest APIs, Plotly, SQLite PostgreSQL Databases, Postman
 
 ---
